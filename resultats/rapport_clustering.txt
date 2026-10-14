@@ -1,0 +1,80 @@
+======================================================================
+RAPPORT DE SEGMENTATION DE CLIENTELE
+======================================================================
+
+1. RESUME EXECUTIF
+----------------------------------------
+Date d'analyse : 2026-02-06 18:05:59
+Nombre total de clients : 350
+Nombre de clusters : 4
+Score Silhouette : 0.207
+Score Davies-Bouldin : 1.409
+
+2. REPARTITION DES CLUSTERS
+----------------------------------------
+Cluster 0: 91 clients (26.0%) - Clients Standards - Comportement moyen
+Cluster 1: 101 clients (28.9%) - Clients Economes - Depenses faibles
+Cluster 2: 77 clients (22.0%) - Clients Standards - Comportement moyen
+Cluster 3: 81 clients (23.1%) - Clients Fideles - Visites frequentes
+
+3. PROFILS DETAILS DES CLUSTERS
+----------------------------------------
+
+[CLUSTER 0] - Clients Standards - Comportement moyen
+  Taille : 91 clients (26.0%)
+  Age moyen : 45.4 ans
+  Revenu moyen : $101,321
+  Score depense : 71.3/100
+  Visites/mois : 9.8
+  Genre majoritaire : Male
+  Produit prefere : Home
+
+[CLUSTER 1] - Clients Economes - Depenses faibles
+  Taille : 101 clients (28.9%)
+  Age moyen : 32.0 ans
+  Revenu moyen : $80,832
+  Score depense : 20.7/100
+  Visites/mois : 8.5
+  Genre majoritaire : Male
+  Produit prefere : Clothing
+
+[CLUSTER 2] - Clients Standards - Comportement moyen
+  Taille : 77 clients (22.0%)
+  Age moyen : 42.3 ans
+  Revenu moyen : $46,750
+  Score depense : 69.8/100
+  Visites/mois : 5.0
+  Genre majoritaire : Female
+  Produit prefere : Sports
+
+[CLUSTER 3] - Clients Fideles - Visites frequentes
+  Taille : 81 clients (23.1%)
+  Age moyen : 46.9 ans
+  Revenu moyen : $48,650
+  Score depense : 41.9/100
+  Visites/mois : 14.8
+  Genre majoritaire : Male
+  Produit prefere : Home
+
+4. RECOMMANDATIONS MARKETING
+----------------------------------------
+
+Cluster 0 (Clients Standards - Comportement moyen):
+  - Campagnes generales
+  - Offres groupees
+  - Communication moderee
+
+Cluster 1 (Clients Economes - Depenses faibles):
+  - Promotions ciblees
+  - Offres de premiere commande
+  - Produits en soldes
+
+Cluster 2 (Clients Standards - Comportement moyen):
+  - Campagnes generales
+  - Offres groupees
+  - Communication moderee
+
+Cluster 3 (Clients Fideles - Visites frequentes):
+  - Programmes de fidelite
+  - Offres de cross-selling
+  - Communication reguliere
